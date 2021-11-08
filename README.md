@@ -23,7 +23,8 @@ $ pip install -r requirements.txt
 # Instale o wkhtmltopf e adicione ao PATH nas variaveis de ambiente
 $ https://wkhtmltopdf.org/downloads.html
 
-# Dentro do arquivo app.py, na variavel 'path_wkhtmltopdf', você deve colocar o caminho onde foi instalado o wkhtmltopdf
+# Dentro do arquivo app.py, na variavel 'path_wkhtmltopdf',
+ você deve colocar o caminho onde foi instalado o wkhtmltopdf
 
 ```
 <br>
